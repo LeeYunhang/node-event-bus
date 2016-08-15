@@ -1,0 +1,21 @@
+{
+  "name": "node-event-bus",
+  "version": "1.0.0",
+  "description": "node-event-bus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niugeshenhua/node-event-bus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niugeshenhua/node-event-bus/issues"
+  },
+  "devDependencies": {
+  },
+  "homepage": "https://github.com/niugeshenhua/node-event-bus#readme"
+}
